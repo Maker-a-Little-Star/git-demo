@@ -5,5 +5,6 @@ public class Hello {
     System.out.println("git commit third");
 
     System.out.println("热修复的分支的建立");
+    System.out.println("github上修改了代码"）;
   }
 }
